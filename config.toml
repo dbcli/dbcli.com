@@ -1,4 +1,38 @@
-baseURL = "http://example.org/"
+baseurl = "https://www.dbcli.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "DBCLI"
+theme = "HugoMDL"
+MetaDataFormat = "yaml"
+
+[permalinks]
+	page = "/:title/"
+	about = "/:filename/"
+
+[params]
+  author = "Firstname Lastname"
+  avatar = "/images/avatar.png"
+  background = "/images/bg.jpg"
+  description = "A place to publish my incomprehensible ramblings" #meta description
+  image = "/images/avatar-192x210.png" #for frontpage profile card
+  mdlPrimary = "grey"
+  mdlSecondary = "orange"
+  website = "example.com"
+  email = "Firstname@example.com"
+  twitter = "https://twitter.com/firstname_lastname"
+  github = "https://github.com/firstname_lastname/"
+  copyrightyear = "2015"
+  frontpageposts = 6 #number of post cards to display on frontpage
+
+# Fully customizable header menu
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = -200
+[[menu.main]]
+  name = "Projects"
+  url = "/project/"
+  weight = -160
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = "-140"
