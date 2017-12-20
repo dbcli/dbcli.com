@@ -1,0 +1,3 @@
+[submodule "themes/slate"]
+	path = themes/slate
+	url = git@github.com:gesquive/slate.git
