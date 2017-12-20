@@ -21,9 +21,9 @@ paginate = 10
 
 	[params.sidebar]
 		# Replace the avatar with a picture of your own under static/images
-		avatar = "avatar.jpg"
+		avatar = "avatar.png"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**DBCLI** is a suite of database clients<br>Autocompletion<br>Syntax Highlighting<br>OpenSource<br>Cross-platform"
+		bio = "**DBCLI** - A suite of database clients<br>Autocompletion<br>Syntax Highlighting<br>OpenSource<br>Cross-platform"
 		# The icons will be shown if you enter your username
 		twitter = "amjithr"
 		github = "dbcli"
