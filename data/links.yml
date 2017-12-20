@@ -1,0 +1,15 @@
+tiles:
+-
+  name: "pgcli"
+  url: "https://www.pgcli.com"
+  img: "logos/google.svg"
+  txt_color: "#ffffff"
+  bg_color: "#ffb900"
+  tags: ["app"]
+-
+  name: "mycli"
+  url: "https://www.mycli.net"
+  img: "logos/google.svg"
+  txt_color: "#ffffff"
+  bg_color: "#ffb900"
+  tags: ["app"]
