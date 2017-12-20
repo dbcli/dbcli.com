@@ -44,20 +44,38 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			url = "https://www.pgcli.com"
 			thumb = "thumbs/01.jpg"
-			title = "PGCLI - Postgres"
-			description = ""
+			title = "PGCLI"
+			description = "Postgres Client"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
+			url = "https://www.mycli.net"
 			thumb = "thumbs/02.jpg"
-			title = "MYCLI - MySQL"
-			description = ""
+			title = "MYCLI"
+			description = "MySQL Client"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
+			url = "https://github.com/dbcli/mssql-cli"
 			thumb = "thumbs/03.jpg"
-			title = "MSSQL-CLI - SQLServer"
-			description = ""
+			title = "MSSQL-CLI"
+			description = "MS SQL Server Client"
+
+		[[params.portfolio.gallery]]
+			url = "https://github.com/dbcli/vcli"
+			thumb = "thumbs/01.jpg"
+			title = "VCLI"
+			description = "VerticaDB Client"
+
+		[[params.portfolio.gallery]]
+			url = "https://github.com/dbcli/pgspecial"
+			thumb = "thumbs/02.jpg"
+			title = "pgspecial"
+			description = "Library: Postgres meta commands."
+
+		[[params.portfolio.gallery]]
+			url = "https://github.com/dbcli/cli_helpers"
+			thumb = "thumbs/03.jpg"
+			title = "cli_helpers"
+			description = "Library: Common CLI helpers."
 
 	[params.contact]
 		hide  = true
