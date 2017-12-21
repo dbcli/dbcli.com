@@ -43,39 +43,39 @@ paginate = 10
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
 			url = "https://www.pgcli.com"
-			thumb = "avatar.png"
+			thumb = "thumbs/pgcli_dracula.png"
 			title = "PGCLI"
 			description = "Postgres Client"
 
 		[[params.portfolio.gallery]]
 			url = "https://www.mycli.net"
-			thumb = "avatar.png"
+			thumb = "thumbs/mycli_dracula.png"
 			title = "MYCLI"
 			description = "MySQL Client"
 
 		[[params.portfolio.gallery]]
 			url = "https://github.com/dbcli/mssql-cli"
-			thumb = "avatar.png"
+			thumb = "thumbs/mssql-cli_bb.png"
 			title = "MSSQL-CLI"
 			description = "MS SQL Server Client"
 
 		[[params.portfolio.gallery]]
 			url = "https://github.com/dbcli/vcli"
-			thumb = "avatar.png"
+			thumb = "thumbs/vcli_bb.png"
 			title = "VCLI"
 			description = "VerticaDB Client"
 
 		[[params.portfolio.gallery]]
 			url = "https://github.com/dbcli/pgspecial"
-			thumb = "avatar.png"
+			thumb = "thumbs/pgspecial.png"
 			title = "pgspecial"
-			description = "Library: Postgres meta commands."
+			description = "Postgres meta commands."
 
 		[[params.portfolio.gallery]]
 			url = "https://github.com/dbcli/cli_helpers"
-			thumb = "avatar.png"
+			thumb = "thumbs/cli_helpers.png"
 			title = "cli_helpers"
-			description = "Library: Common CLI helpers."
+			description = "Common CLI helpers."
 
 	[params.contact]
 		hide  = true
