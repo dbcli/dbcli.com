@@ -1,4 +1,4 @@
-baseurl = "https://www.dbcli.com"
+baseurl = "/"
 languageCode = "en-us"
 title = "DBCLI"
 theme = "strata"
