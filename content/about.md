@@ -1,40 +1,40 @@
 ---
-title: "About Me"
-description: "All About Me"
-date: "2015-08-18"
+title: "About"
+description: ""
+date: "2017-12-20"
 type: "about"
 layout: "single"
 categories:
-    - "bio"
     - "about"
     - "meta"
 tags:
-    - "bio"
-blurb: "Just a city boy, born and raised in South Detroit"
-recentposts: 5
-recentprojects: 5
-photo: "/images/avatar.png"
-cardheaderimage: "/images/default.jpg" #optional: default solid color if unset
-cardbackground: "#263238" #optional: card background color; only shows when no image specified
+    - "meta"
+blurb: "DBCLI is a suite of Modern DB Clients for the Command Line"
 ---
 
-90's slow-carb Schlitz Shoreditch mixtape typewriter, wayfarers Austin keffiyeh 
-Helvetica artisan flexitarian. Health goth vinyl scenester pickled kitsch. 
-Organic slow-carb stumptown freegan, PBR ugh chia Intelligentsia pork belly 
-locavore retro kale chips. Tofu put a bird on it squid tattooed beard master 
-cleanse, mumblecore keytar mustache blog direct trade PBR&B quinoa.
+DBCLI is an OpenSource org created to build modern, user-friendly database client for the commandline. Our tools will have auto-completion, syntax highlighting and other user centric design.
 
-#### Education
+We prioritize being nice more than being right. We built the following products to make it pleasant to work with databases.
 
-- 2015 - Master of Arts in Wine Tasting, University of British Columbia
+#### Products
 
-- 2013 - Bachelor of Arts , University of British Columbia
- 
+- [pgcli](https://www.pgcli.com) - Postgres Client with Auto-completion and Syntax Highlighting
+- [mycli](https://www.mycli.net) - MySQL/MariaDB/Percona Client with Auto-completion and Syntax Highlighting
+- [mssql-cli](https://github.com/dbcli/mssql-cli) - Microsoft SQL Server Client with Auto-completion and Syntax Highlighting
+- [vcli](https://github.com/dbcli/vcli) - VerticaDB client
 
-#### Publications
+#### Libraries
 
-- Painting with condiments (2015) 
+- [pgspecial](https://github.com/dbcli/pgspecial) - Python implementation of Postgres meta commands (such as `\d`, `\dt`, `\l`).
+- [cli_helpers](https://github.com/dbcli/cli_helpers) - Python helpers for common CLI Tasks such as tabular output, config file management.
 
-#### Places I've worked
+#### Our Promise
 
-I don't work :(
+##### We will
+
+    * Be nice.
+    * Be courteous.
+    * Be respectful.
+    * Have an open mind.
+    * Never be condescending.
+    * Never discriminate (even if you like Emacs and Java).
