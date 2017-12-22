@@ -2008,6 +2008,10 @@
 			text-align: center;
 		}
 
+    .rounded img {
+      border-radius: 10px;
+    }
+
 			.image.thumb:after {
 				-moz-transition: opacity 0.2s ease-in-out;
 				-webkit-transition: opacity 0.2s ease-in-out;
