@@ -34,6 +34,8 @@ paginate = 10
 		title = "Commandline Database Clients with Autocompletion and Syntax Highlighting."
 		content = ""
 
+	[params.rss]
+		hide  = true
 
 	[params.portfolio]
 		hide  = false
