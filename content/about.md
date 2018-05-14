@@ -25,7 +25,7 @@ We prioritize being nice more than being right. We built the following products 
 
 #### Libraries
 
-- [prompt_toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Python library for building rich commandline applications.
+- [prompt_toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - Python library (by [Jonathan Slenders](https://twitter.com/jonathan_s)) for building rich commandline applications.
 - [pgspecial](https://github.com/dbcli/pgspecial) - Python implementation of Postgres meta commands (such as `\d`, `\dt`, `\l`).
 - [cli_helpers](https://github.com/dbcli/cli_helpers) - Python helpers for common CLI Tasks such as tabular output, config file management.
 
