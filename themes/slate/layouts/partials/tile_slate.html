@@ -1,3 +1,0 @@
-<div class="tile-container">{{$jump := .Site.Params.OpenLinksInNewWindow | default true }}{{ range .Site.Data.links.tiles }}
-{{ partial "tile.html" (dict "Link" . "Jump" $jump)}}{{ end }}
-</div>
