@@ -20,6 +20,7 @@ We prioritize being nice more than being right. We built the following products 
 
 - [pgcli](https://www.pgcli.com) - Postgres Client with Auto-completion and Syntax Highlighting
 - [mycli](https://www.mycli.net) - MySQL/MariaDB/Percona Client with Auto-completion and Syntax Highlighting
+- [litecli](https://litecli.com) - SQLite Client with Auto-completion and Syntax Highlighting
 - [mssql-cli](https://github.com/dbcli/mssql-cli) - Microsoft SQL Server Client with Auto-completion and Syntax Highlighting
 - [vcli](https://github.com/dbcli/vcli) - VerticaDB client
 

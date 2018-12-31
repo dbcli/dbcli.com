@@ -56,6 +56,12 @@ paginate = 10
 			description = "MySQL Client"
 
 		[[params.portfolio.gallery]]
+			url = "https://litecli.com"
+			thumb = "thumbs/litecli_dracula.png"
+			title = "LiteCLI"
+			description = "SQLite Client"
+
+		[[params.portfolio.gallery]]
 			url = "https://github.com/dbcli/mssql-cli"
 			thumb = "thumbs/mssql-cli_bb.png"
 			title = "MSSQL-CLI"
