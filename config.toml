@@ -68,6 +68,12 @@ paginate = 10
 			description = "MS SQL Server Client"
 
 		[[params.portfolio.gallery]]
+			url = "https://github.com/dbcli/athenacli"
+			thumb = "thumbs/athenacli_bb.png"
+			title = "ATHENACLI"
+			description = "AWS Athena Client"
+
+		[[params.portfolio.gallery]]
 			url = "https://github.com/dbcli/vcli"
 			thumb = "thumbs/vcli_bb.png"
 			title = "VCLI"
@@ -85,11 +91,11 @@ paginate = 10
 			title = "cli_helpers"
 			description = "Common CLI helpers."
 
-		#[[params.portfolio.gallery]]
-		#    url = "https://github.com/jonathanslenders/python-prompt-toolkit"
-		#    thumb = "thumbs/ptpython.png"
-		#    title = "prompt_toolkit"
-		#    description = "Rich Commandline Builder."
+        [[params.portfolio.gallery]]
+            url = "https://github.com/jonathanslenders/python-prompt-toolkit"
+            thumb = "thumbs/ptpython.png"
+            title = "prompt_toolkit"
+            description = "Rich Commandline Builder."
 
 	[params.contact]
 		hide  = true
