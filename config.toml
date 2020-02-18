@@ -80,6 +80,12 @@ paginate = 10
 			description = "VerticaDB Client"
 
 		[[params.portfolio.gallery]]
+			url = "https://github.com/laixintao/iredis"
+			thumb = "thumbs/iredis.png"
+			title = "IRedis"
+			description = "Redis Client"
+
+		[[params.portfolio.gallery]]
 			url = "https://github.com/dbcli/pgspecial"
 			thumb = "thumbs/pgspecial.png"
 			title = "pgspecial"
@@ -91,7 +97,7 @@ paginate = 10
 			title = "cli_helpers"
 			description = "Common CLI helpers."
 
-        [[params.portfolio.gallery]]
+        [[params.portfolio.lib]]
             url = "https://github.com/jonathanslenders/python-prompt-toolkit"
             thumb = "thumbs/ptpython.png"
             title = "prompt_toolkit"

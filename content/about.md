@@ -24,6 +24,7 @@ We prioritize being nice more than being right. We built the following products 
 - [mssql-cli](https://github.com/dbcli/mssql-cli) - Microsoft SQL Server Client with Auto-completion and Syntax Highlighting
 - [athenacli](https://github.com/dbcli/athenacli) - AWS Athena Client with Auto-completion and Syntax Highlighting
 - [vcli](https://github.com/dbcli/vcli) - VerticaDB client
+- [iredis](https://github.com/laixintao/iredis/) -  Client for Redis with AutoCompletion and Syntax Highlighting
 
 #### Libraries
 
