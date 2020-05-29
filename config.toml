@@ -68,22 +68,16 @@ paginate = 10
 			description = "MS SQL Server Client"
 
 		[[params.portfolio.gallery]]
-			url = "https://github.com/dbcli/athenacli"
-			thumb = "thumbs/athenacli_bb.png"
-			title = "ATHENACLI"
-			description = "AWS Athena Client"
-
-		[[params.portfolio.gallery]]
-			url = "https://github.com/dbcli/vcli"
-			thumb = "thumbs/vcli_bb.png"
-			title = "VCLI"
-			description = "VerticaDB Client"
-
-		[[params.portfolio.gallery]]
 			url = "https://github.com/laixintao/iredis"
 			thumb = "thumbs/iredis.png"
 			title = "IRedis"
 			description = "Redis Client"
+
+		[[params.portfolio.gallery]]
+			url = "https://github.com/dbcli/athenacli"
+			thumb = "thumbs/athenacli_bb.png"
+			title = "ATHENACLI"
+			description = "AWS Athena Client"
 
 		[[params.portfolio.gallery]]
 			url = "https://github.com/dbcli/pgspecial"
@@ -96,6 +90,12 @@ paginate = 10
 			thumb = "thumbs/cli_helpers.png"
 			title = "cli_helpers"
 			description = "Common CLI helpers."
+
+		[[params.portfolio.gallery]]
+			url = "https://github.com/dbcli/vcli"
+			thumb = "thumbs/vcli_bb.png"
+			title = "VCLI"
+			description = "VerticaDB Client"
 
         [[params.portfolio.lib]]
             url = "https://github.com/jonathanslenders/python-prompt-toolkit"
