@@ -31,8 +31,8 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "Commandline Database Clients with Autocompletion and Syntax Highlighting."
-		content = ""
+		title = "We value the diversity of our community. We strive to amplify the voices of the oppressed to eradicate racism and xenophobia. We ask our community to stand together in support of the Black community. <br> #BlackLivesMatter"
+		content = "Commandline Database Clients with Autocompletion and Syntax Highlighting."
 
 	[params.rss]
 		hide  = true
