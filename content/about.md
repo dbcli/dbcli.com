@@ -1,7 +1,6 @@
 ---
 title: "About"
 description: ""
-date: "2017-12-20"
 type: "about"
 layout: "single"
 categories:

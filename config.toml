@@ -12,7 +12,7 @@ paginate = 10
 	description = "Commandline Clients for Databases."
 
 	# Format dates with Go's time formatting
-	date_format = "2017-01-01"
+	date_format = "2022-12-25"
 
 	# Add custom assets with their paths relative to the static folder
 	custom_js   = []
